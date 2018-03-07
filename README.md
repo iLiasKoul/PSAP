@@ -1,2 +1,2 @@
 # PSAP
-Public-safety answering point component for the beAWARE-project
+Public-safety answering point module for the beAWARE-project
